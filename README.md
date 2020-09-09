@@ -5,8 +5,8 @@
 
 我是一名软件架构师，数据采集方向从业，对移动平台数据采集有深刻的认识！
 
-- 🔭 我就职于易观智库，坐标中国北京。 /b>
-- 🌱 我们是一个会玩的大数据团队！<
+- 🔭 我就职于易观智库，坐标中国北京。 
+- 🌱 我们是一个会玩的大数据采集团队,如有兴趣欢迎联系!
 
 <!--
 **hhhaiai/hhhaiai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
