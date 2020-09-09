@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+👻 Hey!
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hhhaiai&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&count_private=true&include_all_commits=true" />
+
+我是一名软件架构师，数据采集方向从业，对移动平台数据采集有深刻的认识！
+
+- 🔭 我就职于易观智库，坐标中国北京。 /b>
+- 🌱 我们是一个会玩的大数据团队！<
+
 <!--
 **hhhaiai/hhhaiai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
