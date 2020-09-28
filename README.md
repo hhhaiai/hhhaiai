@@ -10,13 +10,13 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hhhaiai&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=hhhaiai&column=3&margin-w=15&margin-h=15)
 
 
-[![hhhaiai's github stats](https://github-readme-stats.vercel.app/api?username=hhhaiai&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/hhhaiai)
+![hhhaiai's github stats](https://github-readme-stats.vercel.app/api?username=hhhaiai&count_private=true&show_icons=true&theme=radical&show_owner=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhhaiai&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhhaiai&theme=radical)
 
 
 <!--
