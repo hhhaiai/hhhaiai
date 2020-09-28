@@ -10,7 +10,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hhhaiai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hhhaiai&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![hhhaiai's github stats](https://github-readme-stats.vercel.app/api?username=hhhaiai&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/hhhaiai)
