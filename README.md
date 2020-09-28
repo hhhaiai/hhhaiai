@@ -3,10 +3,11 @@
 
 ###### Sup! Here's **hhhaiai**! 🤓 
 
-###### 我是一名高级软件架构师，数据采集方向从业，对移动平台数据采集有深刻的认识！
+###### 我是一名高级软件架构师，数据采集方向从业，对移动平台数据采集有深刻的认识！😄
 
-🔭 我就职于易观智库，坐标中国北京。
-🌱 我们是一个会玩的大数据采集团队,如有兴趣欢迎联系! 😄
+* 🔭 我就职于易观智库，坐标中国北京。
+* 🌱 我们是一个会玩的大数据采集团队,如有兴趣欢迎联系! 
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hhhaiai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
