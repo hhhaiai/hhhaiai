@@ -5,17 +5,15 @@
 
 ###### 我是一名高级软件架构师，数据采集方向从业，对移动平台数据采集有深刻的认识！😄
 
-* 🔭 我就职于易观智库，坐标中国北京。
-* 🌱 我们是一个会玩的大数据采集团队,如有兴趣欢迎联系! 
-
-
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hhhaiai&column=3&margin-w=15&margin-h=15)
 
 
+<!--
 ![hhhaiai's github stats](https://github-readme-stats.vercel.app/api?username=hhhaiai&count_private=true&show_icons=true&theme=radical&show_owner=true)
 
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhhaiai&theme=radical)
 
 
