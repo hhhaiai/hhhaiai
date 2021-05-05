@@ -4,9 +4,13 @@
 ###### 我是一名高级软件架构师，数据采集方向从业，对移动平台数据采集有深刻的认识！😄
 
 
+
+
+![](https://github-profile-trophy.vercel.app/?username=hhhaiai&column=4&margin-w=10&margin-h=10)
+
+
+<!--  
 ![trophy](https://github-profile-trophy.vercel.app/?username=hhhaiai&column=3&margin-w=15&margin-h=15)
-
-
 <!--
 ![hhhaiai's github stats](https://github-readme-stats.vercel.app/api?username=hhhaiai&count_private=true&show_icons=true&theme=radical&show_owner=true)
 
