@@ -1,9 +1,7 @@
-### 👻,  Here's **hhhaiai**! 🤓  👋
+### 👻,  Here's **hhhaiai**! 
 
 
 ###### 我是一名高级软件架构师，数据采集方向从业，对移动平台数据采集有深刻的认识！😄
-
-
 
 
 ![](https://github-profile-trophy.vercel.app/?username=hhhaiai&column=4&margin-w=10&margin-h=10)
