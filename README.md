@@ -1,6 +1,6 @@
 ### 👻,  Here's **hhhaiai**! 
 
-###### 安卓开发从业者、数据采集架构师、多款数据统计SDK的研发😄
+###### 安卓开发从业者，在数据采集、SDK研发有较深认识，代领团队进行业务攻坚.  day day up😄
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=hhhaiai&column=4&margin-w=10&margin-h=10) -->
 
