@@ -2,7 +2,7 @@
 
 ######  数据采集、安卓系统定制、流媒体杂役兼职小学生领队 😄
 
-<!-- ![](https://github-profile-trophy.vercel.app/?username=hhhaiai&column=4&margin-w=10&margin-h=10) -->
+![](https://github-profile-trophy.vercel.app/?username=hhhaiai&column=4&margin-w=10&margin-h=10) 
 
 <!--  
 ![trophy](https://github-profile-trophy.vercel.app/?username=hhhaiai&column=3&margin-w=15&margin-h=15)
