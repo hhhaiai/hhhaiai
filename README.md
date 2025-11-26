@@ -21,12 +21,15 @@ Focused on taking teams from **0 → 1 → scalable growth** to build products t
   <img src="https://github-profile-trophy.vercel.app/?username=hhhaiai&theme=onedark&column=4&margin-w=15&margin-h=15" />
 </div>
 
+
+
 ---
 
 ### 📊 Activity & Stats
 
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hhhaiai&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hhhaiai&theme=radical" width="50%" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhaiai&layout=compact&theme=radical&hide_border=true" />
 </div>
 
@@ -45,6 +48,12 @@ Focused on taking teams from **0 → 1 → scalable growth** to build products t
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hhhaiai&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="GitHub Contributions Graph" width="90%">
   </a>
 </p>
+<div align="center">
+<a href="https://github.com/hhhaiai">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hhhaiai&theme=radical&bg_color=0D1117&color=fe428e&line=fe428e&point=f8d847&area=true&hide_border=true" alt="GitHub Activity Graph" width="48%" />
+  </a>
+</div>
+
 
 ---
 ### 🌱 Currently…
