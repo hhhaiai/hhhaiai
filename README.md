@@ -27,9 +27,11 @@ Focused on taking teams from **0 → 1 → scalable growth** to build products t
 
 ### 📊 Activity & Stats
 
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hhhaiai&theme=radical" width="50%" />
+</p>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hhhaiai&theme=radical" width="50%" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhaiai&layout=compact&theme=radical&hide_border=true" />
 </div>
 
