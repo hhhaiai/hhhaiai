@@ -32,6 +32,21 @@ Focused on taking teams from **0 → 1 → scalable growth** to build products t
 
 ---
 
+## 📊 Development Activities
+
+<p align="center">
+  <a href="https://github.com/hhhaiai">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hhhaiai&theme=radical&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Contribution Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hhhaiai">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hhhaiai&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="GitHub Contributions Graph" width="90%">
+  </a>
+</p>
+
+---
 ### 🌱 Currently…
 
 * Leading the development of a **general-purpose community communication platform**
