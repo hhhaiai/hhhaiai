@@ -1,19 +1,57 @@
-### 👻 Hey, here’s **hhhaiai**!
-
-🚀 Project Lead / Architect / Big Data / Security / AI / Quant
-
-Focused on taking teams from **0 → 1 → scalable growth** to build products that truly deliver value.
+<div align="center">
+  <h1>👻 Hi, I'm hhhaiai</h1>
+  <h3>🚀 Architect / Project Lead / Big Data / Security / AI / Quant</h3>
+  <p><i>Focused on taking teams from <b>0 → 1 → Scalable Growth</b>.</i></p>
+</div>
 
 ---
 
 ### 🧩 About Me
 
-* Years of engineering & architecture experience across Huawei HiSilicon, China Mobile Research Institute, Alibaba, and Analysys
-* Skilled at leading teams to deliver real, production-ready projects quickly
-* Technical focus areas: big-data collection, Android system customization, blockchain, security architecture
-* Team philosophy: build hard things, do them well, and have fun together 😄
+> **"Build hard things, do them well, and have fun."**
+
+*   👨‍💻 **Background:** Veteran Engineer & Architect with experience at **Huawei HiSilicon**, **China Mobile Research**, **Alibaba**, and **Analysys**.
+*   🎯 **Core Focus:** Big Data Infrastructure, Android System Customization, Blockchain, and Security Architecture.
+*   ⚡ **Leadership:** Skilled at leading agile teams to deliver production-ready systems at speed.
 
 ---
+
+### 🛠 Tech Stack
+
+<!-- 使用 Shields.io 静态徽章，极速加载，永不裂图，体现工程稳定性 -->
+<div align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
+  <br>
+  <!-- Domain -->
+  <img src="https://img.shields.io/badge/Big_Data-666666?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_System-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-CC2927?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</div>
+
+---
+
+### 🔭 Focus Areas
+
+| **Domain** | **Current Activities** |
+| :--- | :--- |
+| 🚀 **Product** | Building a general-purpose **Community Platform** & integrating **AI-driven** experiences. |
+| 🛡️ **Security** | System Hardening, Privacy-Preserving Computation. |
+| 📊 **Big Data** | High-concurrency Collection, Quant Analysis Architecture. |
+
+---
+
+### 📊 Development Activity
+
+<p align="center">
+  <a href="https://github.com/hhhaiai">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hhhaiai&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="GitHub Contributions Graph" width="90%">
+  </a>
+</p>
 
 ### 🏆 GitHub Achievements
 
@@ -22,44 +60,6 @@ Focused on taking teams from **0 → 1 → scalable growth** to build products t
 </div>
 
 
-
----
-
-### 📊 Activity & Stats
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hhhaiai&theme=radical" width="50%" />
-</p>
-
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhaiai&layout=compact&theme=radical&hide_border=true" />
+  <sub>Let's connect and build something amazing together.</sub>
 </div>
-
----
-
-## 📊 Development Activities
-
-<p align="center">
-  <a href="https://github.com/hhhaiai">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hhhaiai&theme=radical&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Contribution Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/hhhaiai">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hhhaiai&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="GitHub Contributions Graph" width="90%">
-  </a>
-</p>
-<div align="center">
-<a href="https://github.com/hhhaiai">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hhhaiai&theme=radical&bg_color=0D1117&color=fe428e&line=fe428e&point=f8d847&area=true&hide_border=true" alt="GitHub Activity Graph" width="48%" />
-  </a>
-</div>
-
-
----
-### 🌱 Currently…
-
-* Leading the development of a **general-purpose community communication platform**
-* Exploring the integration of **AI × community product experiences**
-* Continuously improving data security, system architecture, and overall product experience
